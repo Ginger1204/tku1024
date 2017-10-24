@@ -1,2 +1,2 @@
-# tku1024
+# tku
 ## detail
